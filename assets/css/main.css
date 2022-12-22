@@ -2834,7 +2834,7 @@ input, select, textarea {
 		#header .logo {
 			display: block;
 			border-bottom: 0;
-			color: white;
+			color: rgb(130, 45, 45);
 			font-weight: 1000;
 			letter-spacing: 0.1em;
 			margin:0 ;
@@ -2845,15 +2845,15 @@ input, select, textarea {
 
 			#header .logo > * {
 				display: inline-block;
-				vertical-align: middle;
+				vertical-align:middle
 			}
 
 			#header .logo .symbol {
-				margin-right: 0.65em;
+				margin-right: 0;
 			}
 
 				#header .logo .symbol img {
-					display: block;
+					display: flex;
 					width: 2em;
 					height: 2em;
 				}
