@@ -3326,3 +3326,20 @@ input, select, textarea {
 			}
 
 		}
+		#footer-about{
+			display: block;
+		
+		}
+		.about-us{
+			display: block;
+			padding: 5px 100px;
+			margin: 10px 10px;
+			color: #ffffff;
+		}
+		.inner-about{
+			display: block;
+			padding: 5px 100px;
+		}
+		.innner-menu{
+			color: white;
+		}
